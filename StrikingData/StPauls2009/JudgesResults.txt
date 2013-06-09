@@ -1,0 +1,13 @@
+A - Team 1 - 85% - St Paul's 
+B - Team 2 - 83% - Birmingham
+C - Team 3 - 53% - Leeds
+D - Team 4 - 64% - York
+E - Team 5 - 79% - ASCY
+F - Team 6 - 51% - Stockton-on-Tees
+G - Team 7 - 63% - SRCY
+H - Team 8 - 68% - Melbourne
+I - Team 9 - 60% - Southwark
+
+Judges' order:
+A B E H D G I C F
+
